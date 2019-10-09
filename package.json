@@ -1,0 +1,21 @@
+{
+  "name": "sitemapper",
+  "version": "0.0.1",
+  "description": "Content Architecture Sitemap Generator",
+  "preferGlobal": true,
+  "bin": "./sitemapper.js",
+  "main": "sitemapper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^3.0.2",
+    "inquirer": "^7.0.0",
+    "request": "^2.88.0",
+    "url-parse": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason King",
+  "license": "ISC"
+}
