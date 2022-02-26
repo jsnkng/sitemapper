@@ -10,7 +10,7 @@
     "commander": "^3.0.2",
     "inquirer": "^7.0.0",
     "request": "^2.88.0",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.8"
   },
   "devDependencies": {},
   "scripts": {
